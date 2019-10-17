@@ -27,6 +27,11 @@ $hashtable = @{
     "1c28c804-00c3-4665-bd01-41e12d77cc8a" = "4b88f6e8-2e28-4411-9d5f-2969b9d70e27";
     "7f7d6fe3-7dd6-4f31-a5db-39b75e75b612" = "2c06e4df-320c-40b3-b965-f0af90de323e";
     "d8a0c960-0ffe-44c0-9a1d-9998948692e2" = "a3b90b36-1ba5-490b-8021-6d06d98e18f5";
+    "8f69261c-67d2-4f29-9a1b-e54fd8a0d17c" = "40ce7abb-063a-48d7-80e5-5e0687c4b88a";
+    "318a9b07-ee4c-41cb-8141-c0409cc1a7b0" = "a156d107-e5f6-436e-8a2e-13e30f50ed32";
+    "245f3f24-dac0-49e2-b4cf-0d71f5d4271d" = "d8742338-45ad-4f0f-a91a-3cc5c659c116";
+    "10602b14-b891-4a8c-ab24-bee2a2ba6ad0" = "f45c1e13-2eec-4a5a-8ed5-156be7f369ca";
+    "7d0364b7-5613-4791-a0d2-92b3c0ef43f3" = "f8db1020-00f3-4453-bc08-13de133381e0";
 }
 
 $fileContent = Get-Content -Path $File
